@@ -2,16 +2,16 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Я Frontend-разработчик</h3>
 <h4>Стэк технологий:</h4>
-<div>
+<div align="center">
   <img width='150' height='150' src='./image/html.svg' alt='html'>
   <img width='150' height='150' src='./image/css.svg' alt='css'>
   <img width='150' height='150' src='./image/js.svg' alt='js'>
 </div>
-<div>
-  <img width='' height='' src='./image/figma.svg' alt='figma'>
+<div align="center">
+  <img width='=' height='' src='./image/figma.svg' alt='figma' >
   <img width='' height='' src='./image/git.svg' alt='git'>
 </div>
-<div>
+<div align="center">
   <img width='' height='' src='./image/react.svg' alt='react'>
   <img width='' height='' src='./image/redux.svg' alt='redux'>
 </div>
